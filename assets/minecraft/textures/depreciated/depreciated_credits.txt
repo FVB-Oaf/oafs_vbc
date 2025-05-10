@@ -1,0 +1,217 @@
+Mojang Studios / Microsoft - Creating Minecraft
+FVB = Friend_VW_Bug (AKA FVB, FVWB, and Bug)
+PM = Parking__Meter (AKA Monkey Man)
+
+textures>block>
+0_grass - FVB
+0_grass_side - FVB
+0_grass_snow - FVB
+0_grass_top - FVB
+0_leaves_0 - FVB
+0_leaves_1 - FVB
+0_leaves_2 - FVB
+0_leaves_3 - FVB
+0_leaves_4 - FVB
+0_leaves_5 - FVB
+0_tallgrass_bottom - FVB
+0_tallgrass_top - FVB
+1_plant - FVB
+acacia_door_bottom - FVB
+acacia_door_top - FVB
+acacia_log - PM
+acacia_log_top - PM
+acacia_planks - FVB
+acacia_sapling - FVB, using assets from PM
+acacia_trapdoor - FVB
+activator_rail - FVB
+activator_rail_long - FVB
+activator_rail_on - FVB
+activator_rail_on_long - FVB
+amythest - PM
+ancient_debris_side - FVB
+andesite - FVB, remastered by PM
+bedrock - FVB
+birch_door_bottom - FVB
+birch_door_top - FVB
+birch_log - FVB
+birch_log_top - FVB
+birch_planks - FVB
+birch_sapling - FVB
+birch_trapdoor - FVB
+bricks - FVB
+calcite - FVB
+coal_block - FVB
+coal_ore - FVB
+cobbled_deepslate - FVB
+cobblestone - FVB
+cobweb - FVB
+copper_block - FVB, remastered by PM
+copper_ore - FVB
+crafting_table_bottom - FVB
+crafting_table_side - FVB
+crafting_table_top - FVB
+dark_oak_planks - FVB
+deepslate - FVB
+deepslate_coal_ore - FVB
+deepslate_diamond_ore - FVB
+deepslate_emerald_ore - FVB
+deepslate_lapis_ore - FVB
+deepslate_redstone_ore - FVB
+detector_rail - FVB
+detector_rail_long - FVB
+detector_rail_on - FVB
+detector_rail_on_long - FVB
+diamond_block - FVB, remastered by PM
+diamond_ore - FVB
+diorite - FVB, remastered by PM
+dirt - FVB
+emerald_block - FVB
+emerald_ore - FVB
+exposed_copper - FVB, remastered by PM
+furnace_front - FVB
+furnace_front_on - FVB
+furnace_side - FVB
+furnace_top - FVB
+glass - FVB
+gold_block - FVB
+gold_ore - FVB
+granite - FVB, remastered by PM
+gravel - FVB, remastered by PM
+iron_block - FVB
+iron_door_bottom - FVB
+iron_door_top - FVB
+iron_ore - FVB
+jungle_log - FVB, remastered by PM
+jungle_log_top - FVB
+jungle_planks - FVB
+jungle_sapling - FVB, using assets by PM
+ladder - FVB
+lapis_block - FVB, remastered by PM
+lapis_ore - FVB
+mossy_cobblestone - FVB
+netherite_block - FVB
+netherrack - FVB
+oak_door_bottom - FVB
+oak_door_top - FVB
+oak_log - FVB
+oak_log_top - FVB
+oak_planks - FVB
+oak_sapling - FVB
+oak_trapdoor - FVB
+oxidized_copper - FVB, remastered by PM
+polished_deepslate - FVB
+powered_rail - FVB
+powered_rail_long - FVB
+powered_rail_on - FVB
+powered_rail_on_long - FVB
+rail - FVB
+rail_corner - FVB
+rail_long - FVB
+raw_copper_block - FVB
+raw_gold_block - FVB
+raw_iron_block - FVB
+redstone_block - FVB
+redstone_ore - FVB
+sand - FVB
+smoker_bottom - FVB
+smoker_front - FVB
+smoker_front_on - FVB
+smoker_side - FVB
+smoker_top - FVB
+smooth_stone - FVB
+smooth_stone_slab_side - FVB
+spruce_door_bottom - FVB
+spruce_door_top - FVB
+spruce_log - FVB
+spruce_log_top - FVB
+spruce_planks - FVB
+spruce_sapling - FVB
+spruce_trapdoor - FVB
+stone - FVB
+weathered_copper - FVB, remastered by PM
+wood - FVB
+
+textures>depreciated
+diamond - FVB
+diamond_block - FVB
+emerald - FVB
+gravel - FVB
+jungle_log - FVB
+jungle_planks - FVB
+lapis_block - FVB
+
+textures>entity>chest
+
+textures>entity>sign
+oak - FVB
+
+textures>entity>zombie
+zombie - FVB
+
+textures>entity
+shield_base_nopattern
+
+textures>font
+ascii - FVB
+
+textures>gui
+icons - FVB
+options_background - FVB
+widgets - FVB
+
+textures>item
+acacia_door - FVB
+birch_door - FVB
+bone - FVB
+charcoal - FVB
+coal - FVB
+copper_ingot - FVB
+diamond - FVB, remastered by PM
+diamond_axe - FVB
+diamond_hoe - FVB
+diamond_pickaxe - FVB
+diamond_shovel - FVB
+diamond_sword - FVB
+emerald - FVB, remastered by PM
+gold_ingot - FVB
+gold_nugget - FVB
+golden_axe - FVB
+golden_hoe - FVB
+golden_pickaxe - FVB
+golden_shovel - FVB
+golden_sword - FVB
+gunpowder - FVB
+iron_axe - FVB
+iron_door - FVB
+iron_hoe - FVB
+iron_ingot - FVB
+iron_pickaxe - FVB
+iron_shovel - FVB
+iron_sword - FVB
+lapis_lazuli - FVB
+lilac - PM
+netherite_axe - FVB
+netherite_hoe - FVB
+netherite_pickaxe - FVB
+netherite_scrap - FVB
+netherite_shovel - FVB
+netherite_sword - FVB
+oak_door - FVB
+peony - PM
+raw_copper - FVB
+raw_gold - FVB
+raw_iron - FVB
+redstone - FVB
+rose_bush - PM
+spruce_door - FVB
+stick - FVB
+stone_axe - FVB
+stone_hoe - FVB
+stone_pickaxe - FVB
+stone_shovel - FVB
+stone_sword - FVB
+wooden_axe - FVB
+wooden_hoe - FVB
+wooden_pickaxe - FVB
+wooden_shovel - FVB
+wooden_sword - FVB
