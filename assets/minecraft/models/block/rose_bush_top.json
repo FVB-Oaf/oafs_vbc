@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tall_plant_top",
+  "textures": {
+    "texture": "minecraft:block/rose_bush"
+  }
+}
