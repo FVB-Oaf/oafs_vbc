@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "minecraft:block/oak_door","top": "minecraft:block/oak_door","extra":"block/extra_oak"
+  }
+}

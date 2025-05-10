@@ -1,0 +1,16 @@
+{
+    "ambientocclusion": false,
+    "textures": {"particle": "#bottom","extra":"minecraft:missing"},
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 3, 16, 16 ],
+            "faces": {
+                "down":    { "uv": [  6,  0, 7.5, 8 ], "texture": "#extra", "cullface": "down", "rotation": 0 },
+                "north": { "uv": [  3,  8,4.5, 16 ], "texture": "#extra", "cullface": "north" },
+                "south": { "uv": [1.5,  8,  3, 16 ], "texture": "#extra", "cullface": "south" },
+                "west":  { "uv": [ 12,  8,  4, 16 ], "texture": "#top", "cullface": "west" },
+                "east":  { "uv": [  4,  8, 12, 16 ], "texture": "#top" }
+            }
+        }
+    ]
+}
