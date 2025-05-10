@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/parent/block_item",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "front": "minecraft:block/stone",
+    "rear": "minecraft:block/stone",
+    "side": "minecraft:block/stone",
+    "edge": "minecraft:block/stone"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop_narrow",
+  "textures": {
+    "crop": "minecraft:block/rose_bush"
+  }
+}

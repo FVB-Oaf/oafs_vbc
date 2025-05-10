@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/parent/block_item",
+  "textures": {
+    "top": "minecraft:block/0_grass_top",
+    "front": "minecraft:block/dirt",
+    "rear": "minecraft:block/0_grass_side",
+    "side": "minecraft:block/0_grass_side",
+    "edge": "minecraft:block/1_plant"
+  }
+}
